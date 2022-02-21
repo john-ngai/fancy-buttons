@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import {useState} from 'react';
 
 function TextRepeaterButton() {
   const [repititions, setRepititions] = useState(1);

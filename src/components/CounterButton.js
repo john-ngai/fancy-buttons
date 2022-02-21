@@ -1,5 +1,4 @@
-import { click } from '@testing-library/user-event/dist/click';
-import { useState } from 'react';
+import {useState} from 'react';
 
 function CounterButton() {
   const [clickAmount, setClickAmount] = useState(0);

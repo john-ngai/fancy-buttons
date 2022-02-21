@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import {useState} from 'react';
 
 function AngryButton() {
   const [anger, setAnger] = useState(0);
