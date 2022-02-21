@@ -1,3 +1,5 @@
+import { useState } from 'react';
+
 function LightSwitchButton() {
   return (
     <button className="LightSwitchButton">
